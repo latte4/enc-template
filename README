@@ -1,5 +1,5 @@
 #移民用テンプレート
 
 ```bash
-わー
+python twitter_to_bluesky.py
 ```
